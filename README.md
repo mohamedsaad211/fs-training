@@ -1,2 +1,1 @@
-# fs-training
-temporary repo for formula student training
+Ahmed tofa7a
